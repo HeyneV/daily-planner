@@ -1,5 +1,11 @@
 # daily-planner
 
+Link to page: https://heynev.github.io/daily-planner/
+
+Screen shots:
+![image](https://user-images.githubusercontent.com/81537925/118419885-53594200-b68b-11eb-8575-9a851ee5ccf1.png)
+
+
 GIVEN I am using a daily planner to create a schedule
 
 WHEN I open the planner
